@@ -163,7 +163,7 @@ video {
 
 .hero-image-box::after {
   content: "";
-  background-color: rgba(223, 94, 94, 0.4);
+ 
   height: 100vh;
   width: 100%;
   position: absolute;
@@ -202,23 +202,23 @@ video {
   letter-spacing: 0.05rem;
   font-weight: bold;
   text-transform: uppercase;
-  color: white;
+  color:#efffb7 ;
 }
 
 .hero-text {
   font-size: 1rem;
   margin-top: 0.5rem;
-  color: white;
+  color: #efffb7;
 }
 
 .hero-button {
   display: inline-block;
   padding: 0.75rem 2rem;
   background: none;
-  color: white;
+  color: #efffb7;
   font-size: 1.2rem;
   font-weight: bold;
-  border: 1px solid white;
+  border: 1px solid #7e3200;
   border-radius: 5px;
   margin-top: 2rem;
 }
